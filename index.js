@@ -50,7 +50,7 @@ app.use('/api/noticias', noticiaRoutes);
 app.use('/api/users', userRoutes); // Asegúrate de tener la ruta para el login
 
 // 7. Servidor
-const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => {
-  console.log(`Servidor corriendo en modo desarrollo en el puerto ${PORT}`);
-});
+//const PORT = process.env.PORT || 5000;
+//app.listen(PORT, () => {
+  //console.log(`Servidor corriendo en modo desarrollo en el puerto ${PORT}`);
+//});
