@@ -37,7 +37,8 @@ const corsOptions = {
     // Aquí es donde deberías poner las URLs de tu frontend desplegado
     // Por ahora, solo las de localhost y las originales que tenías
     'https://yatusabetvrd.online',
-    'https://www.yatusabetvrd.online'
+    'https://www.yatusabetvrd.online',
+    'https://vercel-fronted-yatusabe-web.vercel.app/'
   ],
   optionsSuccessStatus: 200
 };
